@@ -36,12 +36,8 @@ int main() {
 ```
 ## OUTPUT:
 
-```
-Enter the starting value (M): 5
-Enter the ending value (N): 15
-Even numbers from 5 to 15 are:
-6 8 10 12 14
-```
+![image](https://github.com/user-attachments/assets/b15d51a9-a719-4856-b009-2f361ff42ea8)
+
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
  
@@ -86,14 +82,8 @@ int main() {
 ```
 
 ## OUTPUT:
-```
-Enter the number of rows: 5
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-```
+![image](https://github.com/user-attachments/assets/43357317-112d-4c2c-b4f7-b02d05ecdb55)
+
 ## RESULT:
 
 Thus the program to print the given triangular pattern using loop has been executed successfully
@@ -141,12 +131,8 @@ int main() {
 ```
 
 ## OUTPUT:
-```
-Enter the first number: 15
-Enter the second number: 8
-Addition = 23
-Subtraction = 7
-```
+![image](https://github.com/user-attachments/assets/067372ec-41b8-409d-ba9c-ecf23495afca)
+
 ## RESULT:
 
 Thus the program to perform addition and subtraction of two numbers using functions has been executed successfully
@@ -190,12 +176,8 @@ int main() {
 ```
 
 ## OUTPUT:
-```
-Enter a number: 12345
-Sum of odd digits = 9
-Enter a number: 80426
-Sum of odd digits = 0
-```
+![image](https://github.com/user-attachments/assets/e0d1965a-6137-4604-a24a-c55907ab90ce)
+
 ## RESULT:
 
 Thus the program to find the sum of odd digits using for loop has been executed successfully.
@@ -242,12 +224,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-```
-Enter a number to find factorial: 5
-Factorial of 5 = 120
-Enter a number to find factorial: 7
-Factorial of 7 = 5040
-```
+![image](https://github.com/user-attachments/assets/a808fa60-af0d-4b65-804a-e022528f243f)
+
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
  
